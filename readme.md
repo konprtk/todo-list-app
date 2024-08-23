@@ -11,7 +11,7 @@ A simple and stylish To-Do List application built using HTML, CSS, and JavaScrip
 
 ## Demo
 
-You can view a live demo of this project at [Demo Link](https://your-demo-link.com).
+You can view a live demo of this project at [Demo Link](https://konprtk.me/todo-list-app/).
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ To get a local copy of this project up and running, follow these steps:
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd todo-list-app/ToDoList
+   cd todo-list-app
    ```
 
 3. **Open `index.html`**:
